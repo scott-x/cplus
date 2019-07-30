@@ -1,8 +1,8 @@
 /*
 * @Author: scottxiong
 * @Date:   2019-07-30 17:00:35
-* @Last Modified by:   scottxiong
-* @Last Modified time: 2019-07-30 17:00:41
+* @Last Modified by:   sottxiong
+* @Last Modified time: 2019-07-31 03:15:04
 */
 #include <iostream>
 using namespace std;
@@ -18,5 +18,7 @@ int main ()
   circle = 2 * PI * r;
   cout << circle;
   cout << NEWLINE;
-
+  cout << 'a'<<endl;// char->ASCII->二进制 存储
+  cout << "true:"<<true<<endl; //1
+  cout << "false:"<<false<<endl; //0
 }
