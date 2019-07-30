@@ -1,6 +1,6 @@
 # what you will learn
 
-### targets
+## targets
 
 1. how to install IDE 
 2. write the 1st program "hello world"
