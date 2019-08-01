@@ -4,6 +4,8 @@ Details can be seen [here](http://www.cplusplus.com/doc/tutorial/variables/)
 # target
 1. 变量的生明，初始化和调用
 2. 内存大小的计算
+3. `int a=4`;发生了些什么？3要素
+4. 变量替换
 
 ### identifiers 标识符
 A valid identifier is a sequence of one or more letters, digits, or underscore characters (_). Spaces, punctuation marks, and symbols cannot be part of an identifier. In addition, identifiers shall always begin with a letter. They can also begin with an underline character (_), but such identifiers are -on most cases- considered reserved for compiler-specific keywords or external identifiers, as well as identifiers containing two successive underscore characters anywhere. In no case can they begin with a digit.
