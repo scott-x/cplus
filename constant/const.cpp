@@ -1,13 +1,13 @@
 /*
 * @Author: scottxiong
 * @Date:   2019-07-30 17:00:35
-* @Last Modified by:   sottxiong
-* @Last Modified time: 2019-07-31 03:15:04
+* @Last Modified by:   scottxiong
+* @Last Modified time: 2019-09-05 14:58:25
 */
 #include <iostream>
 using namespace std;
 
-#define PI 3.14159
+#define PI 3.14159  //等价 const PI = 3.14159 
 #define NEWLINE '\n'
 
 int main ()
